@@ -1,4 +1,4 @@
-# simple-toast-notification
+# packageless-toast-notification
 
 
 This is a very simple toast notification. I used no additional package for designing this UI. You can use it anywhere you want. and upgrade it based on your needs.
