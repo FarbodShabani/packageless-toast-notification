@@ -9,7 +9,7 @@ The links for React UI:
 
 [CodeSandBox](https://codesandbox.io/s/simple-toast-notification-clpi6r)
 
-[StackBlitz](https://stackblitz.com/edit/simple-toast-notification?embed=1&file=src/App.js&hideDevTools=1&theme=dark)
+[StackBlitz](https://stackblitz.com/edit/packageless-toast-notification?embed=1&file=src/App.js&hideDevTools=1&hideNavigation=1)
 
 [Replit](https://replit.com/@farbodesham/simple-toast-notification)
 
@@ -17,7 +17,7 @@ The links for Static UI:
 
 [Codepen](https://codepen.io/pen?template=ZERoJNq)
 
-[StackBlitz](https://stackblitz.com/edit/simple-toast-notification-static?embed=1&file=index.html&hideDevTools=1&theme=dark)
+[StackBlitz](https://stackblitz.com/edit/packageless-toast-notification-static?embed=1&file=index.html&hideDevTools=1&theme=dark)
 
 [Codesandbox](https://codesandbox.io/s/simple-toast-notification-static-10s115)
 
